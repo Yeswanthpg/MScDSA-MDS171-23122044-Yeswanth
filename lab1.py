@@ -1,1 +1,2 @@
-print("NAME: YESWANTH P G")
+name = input("enter your name")
+print(name)
