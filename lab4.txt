@@ -1,0 +1,14 @@
+name 	:	Yeswanth
+phno 	:	7453772172
+order 	:	Chicken biryani
+price 	:	190
+quantity 	:	2name 	:	sankar
+phno 	:	34565112
+order 	:	mutton gravy
+price 	:	240
+quantity	:1
+name 	:	vikas
+phno 	:	26138731
+order 	:	vada pav
+price 	:	25
+quantity	:4
