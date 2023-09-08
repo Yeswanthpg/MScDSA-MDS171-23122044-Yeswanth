@@ -1,5 +1,0 @@
-name 	:	sankar
-phno 	:	8414087421
-order 	:	Dynamic prawns
-price 	:	320
-review 	:	Hot and spicy
