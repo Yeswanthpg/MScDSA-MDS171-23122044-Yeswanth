@@ -14,5 +14,5 @@ Email: yeswanth.pg@msds.christuniversity.in
 |3|01-09-2023|Program to find the mean,minimum,maximum and range|[lab03](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/70fad7a3a79b52809315a77d9549086ecbc112d2/lab3.ipynb)|
 |4|04-09-2023|Program for restaurant management system|[lab04](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/d2e4efef70580ee8624299cd9046f671ca2ce28c/lab4.ipynb)|
 |5|08-09-2023|Mix & Match Calculator|[lab05](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/tree/c2c8161d06f70c5c8e14c5d31e297c38463bf8a5/lab5)|
-|6|10-09-2023|Vowels Calculator|[lab06](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob c2c8161d06f70c5c8e14c5d31e297c38463bf8a5/lab6.ipynb)|
+|6|10-09-2023|Vowels Calculator|[lab06](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blobc2c8161d06f70c5c8e14c5d31e297c38463bf8a5/lab6.ipynb)|
 
