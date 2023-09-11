@@ -13,5 +13,4 @@ Email: yeswanth.pg@msds.christuniversity.in
 |2|28-08-2023|Program to record and analyze unique name|[lab02](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/70fad7a3a79b52809315a77d9549086ecbc112d2/lab2.ipynb)|
 |3|01-09-2023|Program to find the mean,minimum,maximum and range|[lab03](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/70fad7a3a79b52809315a77d9549086ecbc112d2/lab3.ipynb)|
 |4|04-09-2023|Program for restaurant management system|[lab04](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/d2e4efef70580ee8624299cd9046f671ca2ce28c/lab4.ipynb)|
-|5|08-09-2023|Mix & Match Calculator|[lab05]|(https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/tree/191541520807fc2316e691a515f72e342908ecd4/lab5)|
-|6|11-09-2023|Vowels calculator|[lab06]|(https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob 191541520807fc2316e691a515f72e342908ecd4/lab6.ipynb)|
+|5|08-09-2023|Mix & Match Calculator|[lab05]|
