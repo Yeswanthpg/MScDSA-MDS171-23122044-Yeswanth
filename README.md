@@ -15,5 +15,4 @@ Email: yeswanth.pg@msds.christuniversity.in
 |4|04-09-2023|Program for restaurant management system|[lab04](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/d2e4efef70580ee8624299cd9046f671ca2ce28c/lab4.ipynb)|
 |5|08-09-2023|Mix & Match Calculator|[lab05](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/tree/c2c8161d06f70c5c8e14c5d31e297c38463bf8a5/lab5)|
 |6|10-09-2023|Vowels Calculator|[lab06](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blobc2c8161d06f70c5c8e14c5d31e297c38463bf8a5/lab6.ipynb)|
-|7|15-09-2023|My Menu Driven Restaurant|[lab07](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/63efd37043f00ef18860df6a366cf021cdc89e13/lab7.ipynb)
-
+|7|15-09-2023|My Menu Driven Restaurant|[lab07](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/9aaf6628387beb24ec2c332366ab7eb91166eb62/lab7.ipynb)
