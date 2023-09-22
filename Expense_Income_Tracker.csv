@@ -1,0 +1,23 @@
+Type,Expense Category,Amount,Description,Date
+type,catergory,cost,description,date
+expense,dining,10,food,01-09-2023
+expense,shopping,5,food,02-09-2023
+expense,bill,30,electricity,03-09-2023
+expense,health,15,medicene,04-09-2023
+expense,shopping,90,dress,05-09-2023
+expense,health,45,cold,06-09-2023
+expense,dining,180,food,07-09-2023
+expense,bill,90,water,08-09-2023
+expense,health,360,fever,09-09-2023
+expense,shopping,180,dress,10-09-2023
+expense,health,720,cold,11-09-2023
+expense,dining,360,food,12-09-2023
+expense,dining,1440,food,13-09-2023
+expense,shopping,425,dress,14-09-2023
+expense,bill,1505,water,15-09-2023
+expense,shopping,490,dress,16-09-2023
+expense,health,1570,fever,17-09-2023
+expense,bill,555,electricity,18-09-2023
+expense,shopping,1635,food,19-09-2023
+expense,dining,620,food,20-09-2023
+expense,fuel,100,bike fuel,21/09/2023
