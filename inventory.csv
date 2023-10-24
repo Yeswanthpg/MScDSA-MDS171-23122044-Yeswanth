@@ -1,0 +1,15 @@
+productid,productname,quantity,price
+p001,ball,100,25
+p002,bat,120,2500
+p003,football,50,2000
+p004,volleyball,25,650
+p005,basketball,20,750
+p006,batminton,15,1400
+p007,hockey,75,100
+p008,chess,15,400
+p009,carrom,40,750
+p010,tennis,35,1250
+p011,rugby ball,50,600.0
+p012,shotput,45,350.0
+p013,net,35,120.0
+p002,bat,120,2500.0
