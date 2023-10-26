@@ -18,4 +18,4 @@ Email: yeswanth.pg@msds.christuniversity.in
 |7|15-09-2023|My Menu Driven Restaurant|[lab07](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/9aaf6628387beb24ec2c332366ab7eb91166eb62/lab7.ipynb)|
 |8|18-09-2023|Matrix Multiplication|[lab08](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/c5c779fced8d032484c6e6ae4c3cda666084af81/lab8.ipynb)|
 |9|22-09-2023|Expense Tracker|[lab09](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/e4e2451a0eeeb251856f29ecd2860ebe22af76a2/lab9.ipynb)|
-|10|26-10-2023|Student Manager|[lab10](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/876e18eac86f1b73a9f8a9c89d769a1e3e9a931b/Lab/lab10.ipynb)|
+|10|26-10-2023|Student Manager|[lab10](https://github.com/Yeswanthpg/MScDSA-MDS171-23122044-Yeswanth/blob/876e18eac86f1b73a9f8a9c89d769a1e3e9a931b/lab10.ipynb)|
